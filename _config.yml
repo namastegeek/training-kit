@@ -92,3 +92,5 @@ defaults:
       path: ""
     values:
       lang: "en"
+
+theme: jekyll-theme-time-machine
